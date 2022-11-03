@@ -1,12 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
-function App() {
-  return (
-    <div>
-      <p>hiii</p>
-    </div>
-  );
+function App(){
+    return(
+        <div>
+            <p>Hi Welcome</p>
+        </div>
+    )
 }
-
 export default App;
